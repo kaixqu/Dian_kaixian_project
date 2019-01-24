@@ -1,0 +1,19 @@
+..\..\output\can.o: ..\..\User\can.c
+..\..\output\can.o: ..\..\User\can.h
+..\..\output\can.o: ..\..\User\sys.h
+..\..\output\can.o: ..\..\Libraries\stm32f10x.h
+..\..\output\can.o: ..\..\Libraries\core_cm3.h
+..\..\output\can.o: D:\Program Files\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\output\can.o: ..\..\Libraries\system_stm32f10x.h
+..\..\output\can.o: ..\..\User\stm32f10x_conf.h
+..\..\output\can.o: ..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h
+..\..\output\can.o: ..\..\Libraries\stm32f10x.h
+..\..\output\can.o: ..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_can.h
+..\..\output\can.o: ..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h
+..\..\output\can.o: ..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
+..\..\output\can.o: ..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h
+..\..\output\can.o: ..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h
+..\..\output\can.o: ..\..\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h
+..\..\output\can.o: ..\..\User\led.h
+..\..\output\can.o: ..\..\User\delay.h
+..\..\output\can.o: ..\..\User\usart1.h
